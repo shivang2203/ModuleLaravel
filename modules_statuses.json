@@ -1,0 +1,8 @@
+{
+    "Products": true,
+    "Admin": true,
+    "User": true,
+    "Frontend": true,
+    "AdminPanel": true,
+    "UserPanel": true
+}
